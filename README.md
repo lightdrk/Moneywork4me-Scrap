@@ -9,7 +9,7 @@ This Node.js script is designed to scrape stock data from a financial website, i
 
 ## Requirements
 Before running the script, ensure you have the following prerequisites installed:
-- Node.js
+- Node.js version for puppeteer .
 - npm (Node Package Manager)
 
 ## Installation
