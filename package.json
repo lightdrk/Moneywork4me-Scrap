@@ -1,0 +1,27 @@
+{
+  "name": "datascrap",
+  "version": "1.0.0",
+  "description": "scraping data from site",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightdrk/MoneyViewScraper.git"
+  },
+  "author": "mohit rawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightdrk/MoneyViewScraper/issues"
+  },
+  "homepage": "https://github.com/lightdrk/MoneyViewScraper#readme",
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "csv-parser": "^3.0.0",
+    "install": "^0.13.0",
+    "math": "^0.0.3",
+    "npm": "^10.0.0",
+    "puppeteer": "^21.0.1"
+  }
+}
