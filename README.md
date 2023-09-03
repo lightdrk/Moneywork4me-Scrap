@@ -1,6 +1,7 @@
 # Moneywork4me-Scrap
 scraps for moneywork4me for data .! subscibe only 
 # Stock Data Scraper with Web Navigation
+![Screenshot_2023-09-03_07-40-52](https://github.com/lightdrk/Moneywork4me-Scrap/assets/108566237/ca1bc28f-eb4e-4c43-af7f-5976a0c91f39)
 
 ## Overview
 This Node.js script is designed to scrape stock data from a financial website, including the search and navigation process. It utilizes Puppeteer for web scraping and CLI progress for displaying a progress bar.
