@@ -5,8 +5,8 @@ const progress = require('cli-progress');
 
 const bar1 = new progress.SingleBar({},progress.Presets.shades_classic);
 
-let Email = 'sriramgcp12@gmail.com';
-let Pass = 'jan@2022';
+let Email = '';
+let Pass = '';
 let stock_file = 'STonk.txt';
 
 function read(stock_file){
