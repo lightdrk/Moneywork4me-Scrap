@@ -34,7 +34,7 @@ Before running the script, ensure you have the following prerequisites installed
 
 5. Keep an eye on the progress bar, which tracks the scraping progress.
 
-6. The scraped data, including stock details, will be saved in a CSV file named `data.csv` in the project directory.
+6. The scraped data, including stock details, will be saved in a TXT file named according to current date `mmddyy-data.txt` in the project directory.
 
 7. Upon completion of scraping all the stocks, the script will display a confirmation message.
 
